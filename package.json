@@ -1,5 +1,5 @@
 {
-  "name": "posthtml-inline-svg",
+  "name": "@kolod/posthtml-inline-svg",
   "version": "0.2.0",
   "description": "Inline svg icons in HTML",
   "keywords": [
