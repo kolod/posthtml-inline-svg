@@ -21,7 +21,7 @@
   "homepage": "https://github.com/andrey-hohlov/posthtml-inline-svg",
   "dependencies": {
     "posthtml": "^0.16.6",
-    "svgo": "^3.3.2"
+    "svgo": "^3.3.3"
   },
   "devDependencies": {
     "eslint": "^6.8.0",
